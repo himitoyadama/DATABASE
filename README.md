@@ -1,4 +1,7 @@
 # database_related
+MariaDBをWindowsサービスに登録する
+https://www.javadrive.jp/mariadb/install/index3.html
+
 MariaDB入門
 https://www.javadrive.jp/mariadb/
 
