@@ -1,4 +1,7 @@
 # database_related
+MySQLにHeidiSQLでアクセスする
+https://saycon.co.jp/archives/neta/mysql%E3%81%ABheidisql%E3%81%A7%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%99%E3%82%8B
+
 MariaDBをWindowsサービスに登録する
 https://www.javadrive.jp/mariadb/install/index3.html
 
