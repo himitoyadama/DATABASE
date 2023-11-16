@@ -1,4 +1,8 @@
 # database_related
+
+【AppSheet入門】顧客管理機能をつくる Part1
+https://www.youtube.com/watch?v=40dqQrO88EU
+
 在庫管理をスマホで実現！Google活用で5分で作れ！さらばエクセル！【Google Workspace #5】
 https://www.youtube.com/watch?v=gdYHE762atk
 
