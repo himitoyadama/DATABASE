@@ -1,4 +1,6 @@
 # database_related
+【AppSheet入門】リレーショナルデータベース Part2
+https://www.youtube.com/watch?v=LR9x7z-0vW0&t=56s
 
 【AppSheet入門】顧客管理機能をつくる Part1
 https://www.youtube.com/watch?v=40dqQrO88EU
