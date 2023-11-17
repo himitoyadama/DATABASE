@@ -1,4 +1,7 @@
 # database_related
+
+https://qiita.com/yucan1002/items/441f737577dcc7be90c0
+
 【AppSheet入門】リレーショナルデータベース Part2
 https://www.youtube.com/watch?v=LR9x7z-0vW0&t=56s
 
