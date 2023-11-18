@@ -1,4 +1,7 @@
 # database_related
+Indexed Database APIとは
+https://www.tohoho-web.com/html5/indexed_db_api.html
+
 glideとは
 https://www.glideapps.com/
 
