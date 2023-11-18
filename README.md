@@ -1,4 +1,6 @@
 # database_related
+glideとは
+https://www.glideapps.com/
 
 https://qiita.com/yucan1002/items/441f737577dcc7be90c0
 
