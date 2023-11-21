@@ -1,4 +1,6 @@
 # database_related
+[PHP]PDOでデータベースと接続する方法
+https://qiita.com/tochisuke221/items/106d474c9fc4fa1f6271
 
 PHPとDB #01 PDOを利用する
 https://www.youtube.com/watch?v=i1R71Y6O850
