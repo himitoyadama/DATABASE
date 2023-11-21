@@ -1,4 +1,8 @@
 # database_related
+
+PHPとDB #01 PDOを利用する
+https://www.youtube.com/watch?v=i1R71Y6O850
+
 Indexed Database APIとは
 https://www.tohoho-web.com/html5/indexed_db_api.html
 
