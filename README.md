@@ -1,4 +1,7 @@
 # database_related
+データベースを使ったWebアプリケーションを作ろう①
+https://kikuchance.com/2020/11/09/sqlite/
+
 [PHP]PDOでデータベースと接続する方法
 https://qiita.com/tochisuke221/items/106d474c9fc4fa1f6271
 
