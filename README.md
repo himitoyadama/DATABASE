@@ -1,4 +1,7 @@
 # database_related
+データベースを使ったアプリケーションを作ろう②
+https://kikuchance.com/2020/11/14/sqlsearch/
+
 データベースを使ったWebアプリケーションを作ろう①
 https://kikuchance.com/2020/11/09/sqlite/
 
