@@ -1,4 +1,8 @@
 # database_related
+
+ユーザーアカウントの確認、作成、変更
+https://www.wakuwakubank.com/posts/401-mysql-user-account/
+
 データベースを使ったアプリケーションを作ろう②
 https://kikuchance.com/2020/11/14/sqlsearch/
 
