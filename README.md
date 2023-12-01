@@ -1,4 +1,7 @@
 # database_related
+SQL Anywhereのインストールと概要
+https://codezine.jp/article/detail/4484
+
 PDO 経由で host名に localhost を設定すると SQLSTATE[HY000] [2002] No such file or directory エラー
 https://mgng.mugbum.info/1150
 
