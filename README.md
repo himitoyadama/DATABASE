@@ -1,4 +1,7 @@
 # database_related
+SQL Databaseの接続IPを確認したいです
+https://cloudsteady.jp/2021/09/21/47369/#:~:text=SSMS(SQL%20Server%20Management%20Studio,%E3%81%AE%E7%A2%BA%E8%AA%8D%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
+
 SQLserverってなんだ　その1
 https://m.youtube.com/watch?v=kOJeYl9wa_8
 
