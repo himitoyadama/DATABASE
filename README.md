@@ -1,4 +1,7 @@
 # database_related
+4. ネットワーク環境確認
+https://www.youtube.com/watch?v=_MTkGt59zHA
+
 SQL Databaseの接続IPを確認したいです
 https://cloudsteady.jp/2021/09/21/47369/#:~:text=SSMS(SQL%20Server%20Management%20Studio,%E3%81%AE%E7%A2%BA%E8%AA%8D%E3%81%8C%E3%81%A7%E3%81%8D%E3%81%BE%E3%81%99%E3%80%82
 
