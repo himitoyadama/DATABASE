@@ -1,4 +1,7 @@
 # database_related
+パソコンのIPアドレスを自動取得から固定にする方法
+https://www.youtube.com/watch?v=mgkZCAr0w0A
+
 4. ネットワーク環境確認
 https://www.youtube.com/watch?v=_MTkGt59zHA
 
