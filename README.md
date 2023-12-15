@@ -1,4 +1,7 @@
 # database_related
+SQLserverってなんだ　その1
+https://m.youtube.com/watch?v=kOJeYl9wa_8
+
 SQL Anywhereのインストールと概要
 https://codezine.jp/article/detail/4484
 
