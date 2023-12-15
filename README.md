@@ -2,6 +2,9 @@
 SQLserverってなんだ　その1
 https://m.youtube.com/watch?v=kOJeYl9wa_8
 
+SQLserverってなんだ　その2
+https://m.youtube.com/watch?v=_zwc1Bks8h0
+
 SQL Anywhereのインストールと概要
 https://codezine.jp/article/detail/4484
 
