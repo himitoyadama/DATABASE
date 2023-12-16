@@ -2,6 +2,9 @@
 サブネットマスク早見表
 https://www.ahref.org/subnet.php
 
+固定IPアドレスと動的IPアドレス
+https://www.cman.jp/network/term/ip/p3/#:~:text=%E5%9B%BA%E5%AE%9AIP%E3%82%A2%E3%83%89%E3%83%AC%E3%82%B9%E3%81%A8%E3%81%AF,%E5%88%86%E3%81%8B%E3%82%89%E3%81%AA%E3%81%84%E8%A8%AD%E5%AE%9A%E3%81%A8%E3%81%AA%E3%82%8A%E3%81%BE%E3%81%99%E3%80%82
+
 パソコンのIPアドレスを自動取得から固定にする方法
 https://www.youtube.com/watch?v=mgkZCAr0w0A
 
