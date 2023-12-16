@@ -1,4 +1,7 @@
 # database_related
+サブネットマスク早見表
+https://www.ahref.org/subnet.php
+
 パソコンのIPアドレスを自動取得から固定にする方法
 https://www.youtube.com/watch?v=mgkZCAr0w0A
 
