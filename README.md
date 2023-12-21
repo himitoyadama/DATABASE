@@ -1,4 +1,7 @@
 # database_related
+【データベース入門】SQLServer【基礎編】　ざっくりわかるノウハウ講座
+https://www.youtube.com/watch?v=FsAmhz8NqFw
+
 SQLserverってなんだ　その3
 https://www.youtube.com/watch?v=UNSqrc0EJjg
 
