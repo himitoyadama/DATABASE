@@ -1,4 +1,7 @@
 # database_related
+SQLserverってなんだ　その3
+https://www.youtube.com/watch?v=UNSqrc0EJjg
+
 サブネットマスク早見表
 https://www.ahref.org/subnet.php
 
