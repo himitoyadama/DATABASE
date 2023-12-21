@@ -1,4 +1,7 @@
 # database_related
+C#とSQLServerを繋いでデータを操作する4つの方法
+https://anderson02.com/cta/5927/
+
 【データベース入門】SQLServer【基礎編】　ざっくりわかるノウハウ講座
 https://www.youtube.com/watch?v=FsAmhz8NqFw
 
