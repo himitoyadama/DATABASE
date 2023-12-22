@@ -1,4 +1,7 @@
 # database_related
+【015】これで最強!! データベース接続【Accessのすゝめ】
+https://www.youtube.com/watch?v=Cbz_gCdIn2o
+
 C#とSQLServerを繋いでデータを操作する4つの方法
 https://anderson02.com/cta/5927/
 
