@@ -1,4 +1,7 @@
 # database_related
+DBeaver とは？
+https://zenn.dev/datsukan/articles/d1d5aa1148e3b4
+
 【015】これで最強!! データベース接続【Accessのすゝめ】
 https://www.youtube.com/watch?v=Cbz_gCdIn2o
 
