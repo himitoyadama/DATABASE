@@ -1,4 +1,7 @@
 # database_related
+【JavaDB3】SQLとは何かがわかる初心者向け入門動画
+https://m.youtube.com/watch?v=b1PaI72vYyw
+
 DBeaver とは？
 https://zenn.dev/datsukan/articles/d1d5aa1148e3b4
 
